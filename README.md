@@ -23,10 +23,15 @@ Shell Scripts/Cron Jobs: Automate file upload and notification trigger
 Results
 
 ✅ Files from EC2 are automatically uploaded to the designated S3 bucket.
+
 ✅ An SNS notification (email/SMS) is sent instantly upon success or failure.
+
 ✅ The entire process is fully automated and secure via IAM.
+
 ✅ Real-time visibility into data movement ensures operational transparency.
+
 ✅ Scalable solution for future workloads without manual intervention.
+
 
 
 
