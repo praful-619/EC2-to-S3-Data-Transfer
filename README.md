@@ -51,5 +51,5 @@ An **SNS topic** is configured to send **real-time email or SMS alerts** when:
 
 ---
 
-## **Project Folder Structure**
+
 
